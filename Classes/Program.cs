@@ -35,12 +35,12 @@ namespace Classes
             smallEnemies = new Enemy[100];
             for (int i = 0; i < smallEnemies.Length; i++)
             {
-                // ...
+                //...
             }
 
-            player.x = 0;
-            player.y = 0;
-            player.health = 50;
+            //player.x = 0;
+            //player.y = 0;
+            //player.health = 50;
 
             smallEnemy.health = 25;
             smallEnemy.x = 10;
