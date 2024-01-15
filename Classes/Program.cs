@@ -23,7 +23,7 @@ namespace Classes
             //ammo = new int[5]; //instantiation
             //ammo[0] = 5;
 
-            Player player; //declaration
+            Player player; //declaration --------------- composition
             player = new Player(); //instantiation
 
             Enemy smallEnemy;
